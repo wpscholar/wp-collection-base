@@ -1,0 +1,15 @@
+{
+  "name": "wpscholar/wp-collection-base",
+  "description": "A collection class that can be used for different object types in WordPress.",
+  "type": "library",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Micah Wood",
+      "email": "micah@wpscholar.com"
+    }
+  ],
+  "require": {
+    "wpscholar/collection": "^1.0"
+  }
+}
