@@ -9,6 +9,11 @@
       "email": "micah@wpscholar.com"
     }
   ],
+  "autoload": {
+    "psr-4": {
+      "wpscholar\\WordPress\\": ""
+    }
+  },
   "require": {
     "wpscholar/collection": "^1.0"
   }
